@@ -15,7 +15,7 @@
 
 - 1 month intern @ grifffon technology
 
- -dont like competitive programming
+- dont like competitive programming
 
 - runner up in interschool squash competition
 
@@ -26,6 +26,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/satyaki-bhattacharjee-7b3790203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyaki-bhattacharjee-7b3790203/" height="30" width="40" /></a>
 <a href="discordapp.com/users/486143312957407232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3722" height="30" width="40" /></a>
+ 
+ [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
