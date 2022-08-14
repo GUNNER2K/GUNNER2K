@@ -11,13 +11,21 @@
 
 <h3 align="left">Achievements:</h3>
 
-- 2nd place in ML competition 
+- 2nd place in ML competition in our college
 
 - 1 month intern @ grifffon technology
 
 - runner up in interschool squash competition
 
 - AWS ML Scholar'21
+
+<h3 align="left">Certifications:</h3>
+
+- 1stop.ai course completion certificate from IIT guwahati 
+
+-  ML course completion certificate from coursera 
+
+- Data Science club certificate of Winner 
 
 
 <h3 align="left">Connect with me:</h3>
