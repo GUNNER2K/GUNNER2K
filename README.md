@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/satyaki-bhattacharjee-7b3790203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyaki-bhattacharjee-7b3790203/" height="30" width="40" /></a>
 <a href="discordapp.com/users/486143312957407232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3722" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_s_a_t_y_a_k_i/" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/instagram-new.png" /></a>
+<a href="https://www.instagram.com/_s_a_t_y_a_k_i/" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/instagram-new.png"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
