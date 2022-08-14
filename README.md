@@ -15,8 +15,6 @@
 
 - 1 month intern @ grifffon technology
 
-- dont like competitive programming
-
 - runner up in interschool squash competition
 
 - AWS ML Scholar'21
