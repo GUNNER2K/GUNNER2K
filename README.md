@@ -13,7 +13,7 @@
 
 - 2nd place in ML competition in our college
 
-- 1 month intern @ grifffon technology
+- Kaggle contributor
 
 - runner up in interschool squash competition
 
@@ -27,6 +27,7 @@
 
 - Data Science club certificate of Winner 
 
+- Certificate for Data Visualization from Tata
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
