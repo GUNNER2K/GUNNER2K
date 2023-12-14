@@ -15,13 +15,11 @@
 
 - Kaggle contributor
 
-- runner up in interschool squash competition
-
-- AWS ML Scholar'21
 
 <h3 align="left">Certifications:</h3>
 
-- 1stop.ai course completion certificate from IIT guwahati 
+- 1stop.ai internship completion certificate from IIT guwahati
+- Omdena Internship Certificate
 
 -  ML course completion certificate from coursera 
 
