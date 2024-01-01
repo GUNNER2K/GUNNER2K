@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyaki Bhattacharjee</h1>
 <h3 align="center">Student at Vellore Institute of Technology, Bhopal🌟</h3>
-- 🌱 I’m currently learning **Machine Learning and exploring the mathematical concepts in depth**
+- 🌱 I’m currently in my final year**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GUNNER2K](https://github.com/Sakalya100)
 
@@ -40,11 +40,13 @@
 
 <h3 align="left">Interested In:</h3>
 
-- Data Science or related field 📊
+- Data Science  📊
 
 - Natural Language Processing 🧏
 
-- Adventure..🤠
+- Large Language Models(LLMs)
+  
+- Generative AI
 
 - Studying further in the Field of AI 🤖
 
