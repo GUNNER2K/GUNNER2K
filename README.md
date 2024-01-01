@@ -11,21 +11,22 @@
 
 <h3 align="left">Achievements:</h3>
 
-- 2nd place in ML competition in our college
+- 2nd place in ML sprint Hackathon
 
-- Kaggle contributor
+  
 
 
 <h3 align="left">Certifications:</h3>
 
-- 1stop.ai internship completion certificate from IIT guwahati
-- Omdena Internship Certificate
+- Tensorflow Developer Professional Certificate
+- Google Data Analytics Professional Certificate
 
--  ML course completion certificate from coursera 
+-  Applied Machine Learning using python
 
-- Data Science club certificate of Winner 
+- IBM Data Science Certification 
 
-- Certificate for Data Visualization from Tata
+- Data Visualization Using PowerBi (TATA)
+- Fundamentals Of data Analytics by Nasscom
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
