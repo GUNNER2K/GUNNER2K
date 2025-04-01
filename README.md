@@ -1,24 +1,17 @@
 <h1 align="center">Hi 👋, I'm Satyaki Bhattacharjee</h1>
-<h3 align="center">Student at Vellore Institute of Technology, Bhopal🌟</h3>
-- 🌱 I’m currently in my final year**
+<h3 align="center">Currently studying Masters in Data Science @FAU Erlangen Nuremberg, Germany.🌟</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/GUNNER2K](https://github.com/Sakalya100)
 
-- 💬 Ask me about **AI,ML,Deep Learning,NLP and CV**
+- 💬 Ask me about ** Data Science,AI,ML,Deep Learning,NLP and CV**
 
 - 📫 How to reach me **satyakibhattacharjee252@gmail.com**
-
-
-<h3 align="left">Achievements:</h3>
-
-- 2nd place in ML sprint Hackathon
-
-- Passed Tensorflow Certification Exam  
 
 
 <h3 align="left">Certifications:</h3>
 
 - Tensorflow Developer Professional Certificate
+  
 - Google Data Analytics Professional Certificate
 
 -  Applied Machine Learning using python
@@ -26,6 +19,7 @@
 - IBM Data Science Certification 
 
 - Data Visualization Using PowerBi (TATA)
+  
 - Fundamentals Of data Analytics by Nasscom
 
 <h3 align="left">Connect with me:</h3>
@@ -48,5 +42,5 @@
   
 - Generative AI
 
-- Studying further in the Field of AI 🤖
+- Studying further in the Field of AI and Data Sicence🤖
 
